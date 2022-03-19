@@ -1,0 +1,17 @@
+
+.box {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    background: red;
+    color: white;
+
+  }
+ 
+  #dos {
+    position: absolute;
+    top: 35px;
+    left: 85px;
+    background: blue;
+    
+  }
